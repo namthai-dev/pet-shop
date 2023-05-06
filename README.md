@@ -39,3 +39,6 @@ Admin account:
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/102452878/236635114-7ac3a43b-523b-4f82-854e-9990c0ad4957.png)
+
+![image](https://user-images.githubusercontent.com/102452878/236635086-7102afa1-ca7f-4601-8ef0-f64726a9360e.png)
