@@ -25,3 +25,17 @@ eCommerce website for pet shop with PHP
 2. Create a new database with the name `pet-shop-db`
 
 3. Import database from `database/pet-shop-db.sql`
+
+## Access website
+
+Main website: `localhost/pet-shop`
+
+Admin website: `localhost/pet-shop/admin`
+
+Admin account:
+
+    Username: admin
+    Password: admin123
+
+## Screenshots
+
